@@ -44,8 +44,11 @@ In the particular domain of crypto currency, it is possible that ARIMA and SES f
 
 ### References
 
-- Data Source Kaggle : Every Cryptocurrency Daily Market Price ( https://www.kaggle.com/jessevent/all-crypto-currencies ) 
-- Cryptocurrency Predictions with ARIMA ( https://www.kaggle.com/taniaj/cryptocurrency- predictions-with-arima )
+- Data Source Kaggle : Every Cryptocurrency Daily Market Price 
+( https://www.kaggle.com/jessevent/all-crypto-currencies ) 
+- Cryptocurrency Predictions with ARIMA 
+( https://www.kaggle.com/taniaj/cryptocurrency-predictions-with-arima )
 - Autocorrelation ( https://en.wikipedia.org/wiki/Autocorrelation )
-- A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python ( https://en.wikipedia.org/wiki/Autocorrelation )
+- A Gentle Introduction to Exponential Smoothing for Time Series Forecasting in Python 
+( https://en.wikipedia.org/wiki/Autocorrelation )
 - ARIMA models ( https://otexts.com/fpp2/arima.html ) 
